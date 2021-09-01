@@ -1,0 +1,1566 @@
+   
+        <!--distantions-->
+        <div class="distantions">
+            <div class="cont">
+            <ul class="lilili">
+                <li>
+                    <a>
+                        <i class="fas fa-route"></i>
+                        tours
+                    </a>
+                </li>
+                <li>
+                    <a>
+                        <i class="fas fa-hotel"></i>
+                        hotels
+                    </a>
+                </li>
+                <li>
+                    <a>
+                        <i class="fas fa-plane-departure"></i>
+                        flights
+                    </a>
+                </li>
+            </ul>
+            <div class="span-1">
+                <div class="row">
+                    <div class="col-lg-3 col-md-3 col-xs-4">
+                       <h4>destination</h4>
+                        <div class="row">
+                            <div class="col-xs-12">
+                                <select>
+                                    <option value="default">your destination country</option>
+                                    <option value="cairo">cairo</option>
+                                    <option value="bearot">bearot</option>
+                                    <option value="turky">turky</option>
+                                    <option value="amsterdam">amsterdam</option>
+                                </select>
+                            </div>
+                            <div class="col-xs-12">
+                                 <select>
+                                     <option value="default">your destination location</option>
+                                    <option value="soudie araiba">soudie araiba</option>
+                                    <option value="egypt">egypt</option>
+                                    <option value="amierca">amierca</option>
+                                    <option value="soudan">soudan</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-xs-4">
+                        <h4>check in</h4>
+                        <div class="row">
+                            <div class="col-xs-12">
+                               <select>
+                                    <option value="default">9/2015</option>
+                                    <option value="10/2015">10/2015</option>
+                                    <option value="11/2015">11/2015</option>
+                                    <option value="12/2015">12/2015</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-3 col-xs-4">
+                        <h4>check out</h4>
+                        <div class="row">
+                            <div class="col-xs-12">
+                               <select>
+                                   <option value="default">9/2015</option>
+                                    <option value="10/2015">10/2015</option>
+                                    <option value="11/2015">11/2015</option>
+                                    <option value="12/2015">12/2015</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-3 col-xs-4">
+                        <h4>members</h4>
+                        <div class="row">
+                            <div class="col-xs-12">
+                               <select>
+                                    <option value="default">4</option>
+                                    <option value="8">8</option>
+                                    <option value="12">12</option>
+                                    <option value="16">16</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-3 col-xs-4">
+                        <h4>duration</h4>
+                        <select>
+                            <option value="2">2</option>
+                            <option value="4">4</option>
+                            <option value="6">6</option>
+                            <option value="12">12</option>
+                        </select>
+                    </div>
+                    <div class="col-lg-6 col-md-3 col-xs-4">
+                        <div class="row">
+                            <div class="col-xs-12">
+                                <div class='budget'>
+                                    <div class="row">
+                                        <div class="col-xs-6">
+                                            <h4>budget</h4>
+                                        </div>
+                                        <div class="col-xs-6">
+                                            <div class="budget">money and price speiciefeied</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xs-6">
+                                <button>search</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="span-2">
+                <div class="row">
+                    <div class="col-lg-3 col-md-3 col-xs-4">
+                         <div class="row">
+                             <div class="col-xs-12">
+                                 <h4>shtyle of the hotel</h4>
+                                 <select>
+                                    <option value="default">roma</option>
+                                    <option value="france">france</option>
+                                    <option value="england">england</option>
+                                    <option value="amoericano">amoericano</option>
+                                </select>
+                             </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-xs-4">
+                        <h4>members</h4>
+                        <div class="row">
+                            <div class="col-xs-12">
+                               <select>
+                                    <option value="default">4</option>
+                                    <option value="8">8</option>
+                                    <option value="12">12</option>
+                                    <option value="16">16</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-3 col-xs-4">
+                        <h4>room number</h4>
+                        <div class="row">
+                            <div class="col-xs-12">
+                               <select>
+                                    <option value="default">5015</option>
+                                    <option value="5078">5078</option>
+                                    <option value="4885">4885</option>
+                                    <option value="4872">4872</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-3 col-xs-4">
+                         <h4>programs /activites</h4>
+                        <div class="row">
+                            <div class="col-xs-12">
+                               <select>
+                                    <option value="swiming">swiming</option>
+                                    <option value="reading">reading</option>
+                                    <option value="lecturies">lecturies</option>
+                                    <option value="social/groups">social/groups</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-3 col-xs-4">
+                        <h4>rome service</h4>
+                        <div class="row">
+                            <div class="col-xs-12">
+                               <select>
+                                    <option value="afternoon">afternoon</option>
+                                    <option value="morning">morning</option>
+                                    <option value="midnight">midnight</option>
+                                    <option value="by order">by order</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-3 col-xs-4">
+                        <div class="row">
+                             <div class="col-xs-12">
+                                 <h4>the last time we have met</h4>
+                                 <select>
+                                    <option value="default">jan 2015</option>
+                                    <option value="fep 2015">fep 2015</option>
+                                    <option value="mar 2015">mar 2015</option>
+                                    <option value="may 2015">may 2015</option>
+                                     <option value="jul 2015">jul 2015</option>
+                                    <option value="aug 2015">aug 2015</option>
+                                    <option value="sep 2015">sep 2015</option>
+                                    <option value="oct 2015">oct 2015</option>
+                                     <option value="nov 2015">nov 2015</option>
+                                    <option value="dec 2015">dec 2015</option>
+                                </select>
+                             </div>
+                        </div>
+                        <button>Book now</button>
+                    </div>
+                </div>
+            </div>
+            <div class="span-3">
+                <div class="radio">
+                   <label>
+                       <span>
+                           <span></span>
+                       </span>
+                     rounded
+                    </label>
+                    <label>
+                       <span>
+                           <span></span>
+                       </span>
+                     one way
+                    </label>
+                </div>
+                <div class="row">
+                    <div class="col-lg-3 col-md-3 col-xs-4">
+                        <div class="row">
+                             <div class="col-xs-12">
+                                 <h4>from</h4>
+                                 <select>
+                                    <option value="default">roma</option>
+                                    <option value="france">france</option>
+                                    <option value="england">england</option>
+                                    <option value="amoericano">amoericano</option>
+                                </select>
+                             </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-xs-4">
+                        <div class="row">
+                             <div class="col-xs-12">
+                                 <h4>to</h4>
+                                 <select>
+                                    <option value="default">roma</option>
+                                    <option value="france">france</option>
+                                    <option value="england">england</option>
+                                    <option value="amoericano">amoericano</option>
+                                </select>
+                             </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-3 col-xs-4">
+                        <div class="row">
+                             <div class="col-xs-12">
+                                 <h4>childern</h4>
+                                 <select>
+                                    <option value="default">1</option>
+                                    <option value="france">2</option>
+                                    <option value="england">3</option>
+                                    <option value="amoericano">4</option>
+                                </select>
+                             </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-3 col-xs-4">
+                        <div class="row">
+                             <div class="col-xs-12">
+                                 <h4>scadule</h4>
+                                 <select>
+                                    <option value="default">08:00 pm</option>
+                                    <option value="09:00 pm">09:00 pm</option>
+                                    <option value="10:00 pm">10:00 pm</option>
+                                    <option value="11:00 pm">11:00 pm</option>
+                                     <option value="12:00">12:00 am</option>
+                                    <option value="01:00 pm">01:00 pm</option>
+                                    <option value="02:00 pm">02:00 pm</option>
+                                    <option value="03:00 pm">03:00 pm</option>
+                                </select>
+                             </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-3 col-xs-4">
+                         <div class="row">
+                             <div class="col-xs-12">
+                                 <h4>intertanment</h4>
+                                 <select>
+                                    <option value="default">books</option>
+                                    <option value="music">music</option>
+                                    <option value="movies">movies</option>
+                                </select>
+                             </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-3 col-xs-4">
+                          <div class="row">
+                             <div class="col-xs-12">
+                                 <h4>enjoing</h4>
+                                 <select>
+                                    <option value="default">0 <i></i></option>
+                                    <option value="1 to 3">1 to 3 <i></i></option>
+                                    <option value="4 to 6">4 to 6 <i></i></option>
+                                    <option value="7 to 10">7 to 10 <i></i></option>
+                                </select>
+                             </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-3 col-xs-4">
+                         <div class="row">
+                             <div class="col-xs-12">
+                                 <h4>descripe journy</h4>
+                                 <select>
+                                    <option value="default">okay <i></i></option>
+                                    <option value="good">good <i></i></option>
+                                    <option value="very good">very good <i></i></option>
+                                    <option value="exllent">exllent <i></i></option>
+                                </select>
+                             </div>
+                        </div>
+                        <button>book</button>
+                    </div>
+                    
+                </div>
+            </div>
+                </div>
+        </div>
+        <!--distantions-->
+        
+        <!--ourgood-->
+        <div class="goodthings">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="row">
+                        <div class="col-xs-6">
+                           <i class="fas fa-user-tag"></i>
+                        </div>
+                        <div class=" col-xs-6">
+                            <h4> amiazing descounts</h4>
+                            <p> new form to ee our work and some ideas <br>
+                             new form to ee our work and some ideas <br>
+                             new form to ee our work and some ideas</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="row">
+                        <div class="col-xs-6">
+                          <i class="fas fa-calendar-day"></i>
+                        </div>
+                        <div class=" col-xs-6">
+                            <h4>so many trips</h4>
+                             <p> new form to ee our work and some ideas <br>
+                             new form to ee our work and some ideas <br>
+                             new form to ee our work and some ideas</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="row">
+                        <div class="col-xs-6">
+                           <i class="fas fa-gifts"></i>
+                        </div>
+                        <div class=" col-xs-6">
+                            <h4>relax and enjoying </h4>
+                            <p> new form to ee our work and some ideas <br>
+                             new form to ee our work and some ideas <br>
+                             new form to ee our work and some ideas</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--ourgood-->
+        
+        <!--port-->
+        <div class="port">
+            <div class="cont">
+                <div class="row">
+                     <div class="col-md-6">
+                         <div class="haveme">
+                        <img class="img-responsive" src="img/port/1.jpg">
+                             </div>
+                    </div>
+                   
+                    <div  class="col-md-6">
+                         <div class="haveme">
+                        <img class="img-responsive"  src="img/port/2.jpg">
+                        </div>
+                    </div>
+                     <div  class="col-md-4">
+                          <div class="haveme">
+                        <img class="img-responsive" src="img/port/3.jpg">
+                         </div>
+                    </div>
+                    <div  class="col-md-4">
+                         <div class="haveme">
+                        <img class="img-responsive" src="img/port/4.jpg">
+                        </div>
+                    </div>
+                    <div  class="col-md-4">
+                         <div class="haveme">
+                        <img class="img-responsive"  src="img/port/5.jpg">
+                        </div>
+                    </div>
+                    <div  class="col-md-4">
+                         <div class="haveme">
+                        <img class="img-responsive"  src="img/port/6.jpg">
+                        </div>
+                    </div>
+                     <div  class="col-md-4">
+                          <div class="haveme">
+                        <img class="img-responsive"  src="img/port/7.jpg">
+                         </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--port-->
+        
+        <!--joun-->
+        <div class="joun">
+            <div class="opacity">
+                <div class="cont">
+                    <h1>join with us in 21 January, 2018 and get upto 40% Discount</h1>
+                    <div class="counter">
+                        <div class="row">
+                            <div class="col-xs-4">
+                                <input type="text">
+                                <p></p>
+                            </div>
+                             <div class="col-xs-4">
+                                <input type="text">
+                                <p></p>
+                            </div>
+                             <div class="col-xs-4">
+                                <input type="text">
+                                <p></p>
+                            </div>
+                             <div class="col-xs-4">
+                                <input type="text">
+                                <p></p>
+                            </div>
+                        </div>
+                    </div>
+                    <button>join now</button>
+                </div>
+            </div>
+        </div>
+        <!--joun-->
+        
+        <!--joun-->
+        <div class="packagee">
+            <div class="cont">
+                <h3>special packages </h3>
+                <p>Duis aute irure dolor in velit esse cillum dolore eu fugiat nulla.</p>
+                <div class="productes">
+                    <div class="row">
+                        <div class="col-md-4 col-xs-12">
+                            <div class="haveimg">
+                                 <img class="img-responsive" src="img/pexels-anugrah-lohiya-723240.jpg">
+                            </div>
+                            <div class="down">
+                                <div class="row">
+                                    <div class="col-xs-9">
+                                        <h3>itally</h3>
+                                    </div>
+                                    <div class="col-xs-3">
+                                        <p>$488</p>
+                                    </div>
+                                </div>
+                                <hr>
+                            </div>
+                            <div class="detalis1">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                    <i class="fas fa-caret-right"></i>
+                                     <p> 5 Daays 6 Nights</p>
+                                 </div>
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p>5 Star</p>
+                                 </div>
+                                  <div class="col-xs-6">
+                                     <p>Accomodation</p>
+                                 </div>
+                                </div>
+                            </div>
+                              <div class="detalis2">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p>Transportation</p>
+                                 </div>
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p> Food Facilities</p>
+                                 </div>
+                                </div>
+                            </div>
+                              <div class="detalis3">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star-half-alt"></i>
+                                     <i class="far fa-star"></i>
+                                 </div>
+                                 <div class="col-xs-6">
+                                     <p>2544 Review</p>
+                                 </div>
+                                </div>
+                            </div>
+                            <button>book now</button>
+                        </div>
+                        <div class="col-md-4 col-xs-12">
+                            <div class="haveimg">
+                                <img src="img/pexels-marley-clovelly-3768224.jpg">
+                            </div>
+                            <div class="down">
+                                <div class="row">
+                                    <div class="col-xs-9">
+                                        <h3>itally</h3>
+                                    </div>
+                                    <div class="col-xs-3">
+                                        <p>$488</p>
+                                    </div>
+                                </div>
+                                <hr>
+                            </div>
+                            <div class="detalis1">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                    <i class="fas fa-caret-right"></i>
+                                     <p> 5 Daays 6 Nights</p>
+                                 </div>
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p>5 Star</p>
+                                 </div>
+                                  <div class="col-xs-6">
+                                     <p>Accomodation</p>
+                                 </div>
+                                </div>
+                            </div>
+                              <div class="detalis2">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p>Transportation</p>
+                                 </div>
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p> Food Facilities</p>
+                                 </div>
+                                </div>
+                            </div>
+                              <div class="detalis3">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star-half-alt"></i>
+                                     <i class="far fa-star"></i>
+                                 </div>
+                                 <div class="col-xs-6">
+                                     <p>2544 Review</p>
+                                 </div>
+                                </div>
+                            </div>
+                            <button>book now</button>
+                        </div>
+                        <div class="col-md-4 col-xs-12">
+                            <div class="haveimg">
+                                <img src="img/pexels-marley-clovelly-3768224.jpg">
+                            </div>
+                            <div class="down">
+                                <div class="row">
+                                    <div class="col-xs-9">
+                                        <h3>itally</h3>
+                                    </div>
+                                    <div class="col-xs-3">
+                                        <p>$488</p>
+                                    </div>
+                                </div>
+                                <hr>
+                            </div>
+                            <div class="detalis1">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                    <i class="fas fa-caret-right"></i>
+                                     <p> 5 Daays 6 Nights</p>
+                                 </div>
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p>5 Star</p>
+                                 </div>
+                                  <div class="col-xs-6">
+                                     <p>Accomodation</p>
+                                 </div>
+                                </div>
+                            </div>
+                              <div class="detalis2">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p>Transportation</p>
+                                 </div>
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p> Food Facilities</p>
+                                 </div>
+                                </div>
+                            </div>
+                              <div class="detalis3">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star-half-alt"></i>
+                                     <i class="far fa-star"></i>
+                                 </div>
+                                 <div class="col-xs-6">
+                                     <p>2544 Review</p>
+                                 </div>
+                                </div>
+                            </div>
+                            <button>book now</button>
+                        </div>
+                        <div class="col-md-4 col-xs-12">
+                            <div class="haveimg">
+                                <img src="img/pexels-marley-clovelly-3768224.jpg">
+                            </div>
+                            <div class="down">
+                                <div class="row">
+                                    <div class="col-xs-9">
+                                        <h3>itally</h3>
+                                    </div>
+                                    <div class="col-xs-3">
+                                        <p>$488</p>
+                                    </div>
+                                </div>
+                                <hr>
+                            </div>
+                            <div class="detalis1">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                    <i class="fas fa-caret-right"></i>
+                                     <p> 5 Daays 6 Nights</p>
+                                 </div>
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p>5 Star</p>
+                                 </div>
+                                  <div class="col-xs-6">
+                                     <p>Accomodation</p>
+                                 </div>
+                                </div>
+                            </div>
+                              <div class="detalis2">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p>Transportation</p>
+                                 </div>
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p> Food Facilities</p>
+                                 </div>
+                                </div>
+                            </div>
+                              <div class="detalis3">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star-half-alt"></i>
+                                     <i class="far fa-star"></i>
+                                 </div>
+                                 <div class="col-xs-6">
+                                     <p>2544 Review</p>
+                                 </div>
+                                </div>
+                            </div>
+                            <button>book now</button>
+                        </div>
+                        <div class="col-md-4 col-xs-12">
+                            <div class="haveimg">
+                                <img src="img/pexels-marley-clovelly-3768224.jpg">
+                            </div>
+                            <div class="down">
+                                <div class="row">
+                                    <div class="col-xs-9">
+                                        <h3>itally</h3>
+                                    </div>
+                                    <div class="col-xs-3">
+                                        <p>$488</p>
+                                    </div>
+                                </div>
+                                <hr>
+                            </div>
+                            <div class="detalis1">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                    <i class="fas fa-caret-right"></i>
+                                     <p> 5 Daays 6 Nights</p>
+                                 </div>
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p>5 Star</p>
+                                 </div>
+                                  <div class="col-xs-6">
+                                     <p>Accomodation</p>
+                                 </div>
+                                </div>
+                            </div>
+                              <div class="detalis2">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p>Transportation</p>
+                                 </div>
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p> Food Facilities</p>
+                                 </div>
+                                </div>
+                            </div>
+                              <div class="detalis3">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star-half-alt"></i>
+                                     <i class="far fa-star"></i>
+                                 </div>
+                                 <div class="col-xs-6">
+                                     <p>2544 Review</p>
+                                 </div>
+                                </div>
+                            </div>
+                            <button>book now</button>
+                        </div>
+                        <div class="col-md-4 col-xs-12">
+                            <div class="haveimg">
+                                <img src="img/pexels-marley-clovelly-3768224.jpg">
+                            </div>
+                            <div class="down">
+                                <div class="row">
+                                    <div class="col-xs-9">
+                                        <h3>itally</h3>
+                                    </div>
+                                    <div class="col-xs-3">
+                                        <p>$488</p>
+                                    </div>
+                                </div>
+                                <hr>
+                            </div>
+                            <div class="detalis1">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                    <i class="fas fa-caret-right"></i>
+                                     <p> 5 Daays 6 Nights</p>
+                                 </div>
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p>5 Star</p>
+                                 </div>
+                                  <div class="col-xs-6">
+                                     <p>Accomodation</p>
+                                 </div>
+                                </div>
+                            </div>
+                              <div class="detalis2">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p>Transportation</p>
+                                 </div>
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p> Food Facilities</p>
+                                 </div>
+                                </div>
+                            </div>
+                              <div class="detalis3">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star-half-alt"></i>
+                                     <i class="far fa-star"></i>
+                                 </div>
+                                 <div class="col-xs-6">
+                                     <p>2544 Review</p>
+                                 </div>
+                                </div>
+                            </div>
+                            <button>book now</button>
+                        </div>
+                        <div class="col-md-4 col-xs-12">
+                            <div class="haveimg">
+                                <img src="img/pexels-marley-clovelly-3768224.jpg">
+                            </div>
+                            <div class="down">
+                                <div class="row">
+                                    <div class="col-xs-9">
+                                        <h3>itally</h3>
+                                    </div>
+                                    <div class="col-xs-3">
+                                        <p>$488</p>
+                                    </div>
+                                </div>
+                                <hr>
+                            </div>
+                            <div class="detalis1">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                    <i class="fas fa-caret-right"></i>
+                                     <p> 5 Daays 6 Nights</p>
+                                 </div>
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p>5 Star</p>
+                                 </div>
+                                  <div class="col-xs-6">
+                                     <p>Accomodation</p>
+                                 </div>
+                                </div>
+                            </div>
+                              <div class="detalis2">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p>Transportation</p>
+                                 </div>
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p> Food Facilities</p>
+                                 </div>
+                                </div>
+                            </div>
+                              <div class="detalis3">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star-half-alt"></i>
+                                     <i class="far fa-star"></i>
+                                 </div>
+                                 <div class="col-xs-6">
+                                     <p>2544 Review</p>
+                                 </div>
+                                </div>
+                            </div>
+                            <button>book now</button>
+                        </div>
+                        <div class="col-md-4 col-xs-12">
+                            <div class="haveimg">
+                                <img src="img/pexels-marley-clovelly-3768224.jpg">
+                            </div>
+                            <div class="down">
+                                <div class="row">
+                                    <div class="col-xs-9">
+                                        <h3>itally</h3>
+                                    </div>
+                                    <div class="col-xs-3">
+                                        <p>$488</p>
+                                    </div>
+                                </div>
+                                <hr>
+                            </div>
+                            <div class="detalis1">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                    <i class="fas fa-caret-right"></i>
+                                     <p> 5 Daays 6 Nights</p>
+                                 </div>
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p>5 Star</p>
+                                 </div>
+                                  <div class="col-xs-6">
+                                     <p>Accomodation</p>
+                                 </div>
+                                </div>
+                            </div>
+                              <div class="detalis2">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p>Transportation</p>
+                                 </div>
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p> Food Facilities</p>
+                                 </div>
+                                </div>
+                            </div>
+                              <div class="detalis3">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star-half-alt"></i>
+                                     <i class="far fa-star"></i>
+                                 </div>
+                                 <div class="col-xs-6">
+                                     <p>2544 Review</p>
+                                 </div>
+                                </div>
+                            </div>
+                            <button>book now</button>
+                        </div>
+                        <div class="col-md-4 col-xs-12">
+                            <div class="haveimg">
+                                <img src="img/pexels-marley-clovelly-3768224.jpg">
+                            </div>
+                            <div class="down">
+                                <div class="row">
+                                    <div class="col-xs-9">
+                                        <h3>itally</h3>
+                                    </div>
+                                    <div class="col-xs-3">
+                                        <p>$488</p>
+                                    </div>
+                                </div>
+                                <hr>
+                            </div>
+                            <div class="detalis1">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                    <i class="fas fa-caret-right"></i>
+                                     <p> 5 Daays 6 Nights</p>
+                                 </div>
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p>5 Star</p>
+                                 </div>
+                                  <div class="col-xs-6">
+                                     <p>Accomodation</p>
+                                 </div>
+                                </div>
+                            </div>
+                              <div class="detalis2">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p>Transportation</p>
+                                 </div>
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p> Food Facilities</p>
+                                 </div>
+                                </div>
+                            </div>
+                              <div class="detalis3">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star-half-alt"></i>
+                                     <i class="far fa-star"></i>
+                                 </div>
+                                 <div class="col-xs-6">
+                                     <p>2544 Review</p>
+                                 </div>
+                                </div>
+                            </div>
+                            <button>book now</button>
+                        </div>
+                        <div class="col-md-4 col-xs-12">
+                            <div class="haveimg">
+                                <img src="img/pexels-marley-clovelly-3768224.jpg">
+                            </div>
+                            <div class="down">
+                                <div class="row">
+                                    <div class="col-xs-9">
+                                        <h3>itally</h3>
+                                    </div>
+                                    <div class="col-xs-3">
+                                        <p>$488</p>
+                                    </div>
+                                </div>
+                                <hr>
+                            </div>
+                            <div class="detalis1">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                    <i class="fas fa-caret-right"></i>
+                                     <p> 5 Daays 6 Nights</p>
+                                 </div>
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p>5 Star</p>
+                                 </div>
+                                  <div class="col-xs-6">
+                                     <p>Accomodation</p>
+                                 </div>
+                                </div>
+                            </div>
+                              <div class="detalis2">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p>Transportation</p>
+                                 </div>
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p> Food Facilities</p>
+                                 </div>
+                                </div>
+                            </div>
+                              <div class="detalis3">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star-half-alt"></i>
+                                     <i class="far fa-star"></i>
+                                 </div>
+                                 <div class="col-xs-6">
+                                     <p>2544 Review</p>
+                                 </div>
+                                </div>
+                            </div>
+                            <button>book now</button>
+                        </div>
+                        <div class="col-md-4 col-xs-12">
+                            <div class="haveimg">
+                                <img src="img/pexels-marley-clovelly-3768224.jpg">
+                            </div>
+                            <div class="down">
+                                <div class="row">
+                                    <div class="col-xs-9">
+                                        <h3>itally</h3>
+                                    </div>
+                                    <div class="col-xs-3">
+                                        <p>$488</p>
+                                    </div>
+                                </div>
+                                <hr>
+                            </div>
+                            <div class="detalis1">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                    <i class="fas fa-caret-right"></i>
+                                     <p> 5 Daays 6 Nights</p>
+                                 </div>
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p>5 Star</p>
+                                 </div>
+                                  <div class="col-xs-6">
+                                     <p>Accomodation</p>
+                                 </div>
+                                </div>
+                            </div>
+                              <div class="detalis2">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p>Transportation</p>
+                                 </div>
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p> Food Facilities</p>
+                                 </div>
+                                </div>
+                            </div>
+                              <div class="detalis3">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star-half-alt"></i>
+                                     <i class="far fa-star"></i>
+                                 </div>
+                                 <div class="col-xs-6">
+                                     <p>2544 Review</p>
+                                 </div>
+                                </div>
+                            </div>
+                            <button>book now</button>
+                        </div>
+                        <div class="col-md-4 col-xs-12">
+                            <div class="haveimg">
+                                <img src="img/pexels-marley-clovelly-3768224.jpg">
+                            </div>
+                            <div class="down">
+                                <div class="row">
+                                    <div class="col-xs-9">
+                                        <h3>itally</h3>
+                                    </div>
+                                    <div class="col-xs-3">
+                                        <p>$488</p>
+                                    </div>
+                                </div>
+                                <hr>
+                            </div>
+                            <div class="detalis1">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                    <i class="fas fa-caret-right"></i>
+                                     <p> 5 Daays 6 Nights</p>
+                                 </div>
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p>5 Star</p>
+                                 </div>
+                                  <div class="col-xs-6">
+                                     <p>Accomodation</p>
+                                 </div>
+                                </div>
+                            </div>
+                              <div class="detalis2">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p>Transportation</p>
+                                 </div>
+                                 <div class="col-xs-6">
+                                      <i class="fas fa-caret-right"></i>
+                                     <p> Food Facilities</p>
+                                 </div>
+                                </div>
+                            </div>
+                              <div class="detalis3">
+                             <div class="row">
+                                 <div class="col-xs-6">
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star"></i>
+                                     <i class="fas fa-star-half-alt"></i>
+                                     <i class="far fa-star"></i>
+                                 </div>
+                                 <div class="col-xs-6">
+                                     <p>2544 Review</p>
+                                 </div>
+                                </div>
+                            </div>
+                            <button>book now</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--joun-->
+        <!--clintes-->
+        <div class="cline">
+            <div class="cont">
+                <h2 class="text-align"> our clintes</h2>
+                <div class="haveone">
+                <div class="havetwo">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="havethree">
+                                <div class="imag text-align">
+                                    <img class="img-responsive" src="img/port/1.jpg">
+                                </div>
+                                <div class="i-p-h4-p text-align">
+                                    <i></i>
+                                    <p></p>
+                                    <h4>cavaen marcela</h4>
+                                    <p></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                <div class="controler text-align">
+                    <div class="row">
+                        <div class="col-xs-6">
+                            <i> left</i>
+                        </div>
+                        <div class="col-xs-6">
+                            <i> right</i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--clintes-->
+        
+        <!--clintes-->
+        <div class="special">
+            <div class="cont">
+                <div class="row">
+                    <div class="col-md-6 col-xs-12">
+                        <h1>taliend</h1>
+                        <div class="row">
+                            <div class="col-xs-6">
+                                 <i></i>
+                                 <i></i>
+                                 <i></i>
+                                 <i></i>
+                                 <i></i>
+                            </div>
+                            <div class="col-xs-6">
+                                <p>5457 reviews</p>
+                            </div>
+                            <div class="col-xs-4">
+                                <p><i class="fas fa-caret-right"></i>5 daays 6 nights </p>
+                            </div>
+                            <div class="col-xs-4">
+                                <p><i class="fas fa-caret-right"></i>4 of family</p>
+                            </div>
+                            <div class="col-xs-4">
+                                <p><i class="fas fa-caret-right"></i>5 star accomodation </p>
+                            </div>
+                            <div class="col-xs-6">
+                                <p><i class="fas fa-caret-right">transportation / food facilities </p>
+                            </div>
+                            <div class="col-xs-6">
+                                <p><i class="fas fa-caret-right">activites</p>
+                            </div>
+                            <p> asdada adddddddddddddddddddddddddddddddddddddddddddddddddddddddddd    dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</p>
+                            <button>book now</button>
+                            <button>take quick tour</button>
+                        </div>
+                    </div>
+                    <div class="col-md-6 hidden-xs hidden-sm">
+                        <div class="fullwidth">
+                            <h1>special offers</h1>
+                            <h1>45%</h1>
+                            <h1>%974</h1>
+                            <span>regular $ 1450</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--clintes-->
+        
+        <!--blog-->
+        <div class="our-plan">
+            <div class="cont">
+                <h2> our latest news</h2>
+                <p>adadddddddddddddddd adddddddddddddddddddddddddddddddddddddddddadad   adddddddddddddddd</p>
+                <div class="have-news">
+                    <div class="row">
+                        <div class="col-sm-6 col-xs-12">
+                            <div class="new">
+                                <div class="p-span-hr">
+                                    <div class="row">
+                                        <div class="col-xs-6">
+                                            <p>new news</p>
+                                        </div>
+                                         <div class="col-xs-6">
+                                        <span>new news</span>
+                                        </div>
+                                        
+                                        <hr>
+                                    </div>
+                                </div>
+                                <div class="img">
+                                    <img src="img/644.jpg"/>
+                                </div>
+                                <p>asdadad</p>
+                                <p>aadad</p>
+                                <button>detalis</button>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-xs-12">
+                            <div class="new">
+                                <div class="p-span-hr">
+                                    <div class="row">
+                                        <div class="col-xs-6">
+                                            <p>new news</p>
+                                        </div>
+                                         <div class="col-xs-6">
+                                        <span>new news</span>
+                                        </div>
+                                        
+                                        <hr>
+                                    </div>
+                                </div>
+                                <div class="img">
+                                    <img src="img/644.jpg"/>
+                                </div>
+                                <p>asdadad</p>
+                                <p>aadad</p>
+                                <button>detalis</button>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-xs-12">
+                            <div class="new">
+                                <div class="p-span-hr">
+                                    <div class="row">
+                                        <div class="col-xs-6">
+                                            <p>new news</p>
+                                        </div>
+                                         <div class="col-xs-6">
+                                        <span>new news</span>
+                                        </div>
+                                        
+                                        <hr>
+                                    </div>
+                                </div>
+                                <div class="img">
+                                    <img src="img/644.jpg"/>
+                                </div>
+                                <p>asdadad</p>
+                                <p>aadad</p>
+                                <button>detalis</button>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-xs-12">
+                            <div class="new">
+                                <div class="p-span-hr">
+                                    <div class="row">
+                                        <div class="col-xs-6">
+                                            <p>new news</p>
+                                        </div>
+                                         <div class="col-xs-6">
+                                        <span>new news</span>
+                                        </div>
+                                        
+                                        <hr>
+                                    </div>
+                                </div>
+                                <div class="img">
+                                    <img src="img/644.jpg"/>
+                                </div>
+                                <p>asdadad</p>
+                                <p>aadad</p>
+                                <button>detalis</button>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-xs-12">
+                            <div class="new">
+                                <div class="p-span-hr">
+                                    <div class="row">
+                                        <div class="col-xs-6">
+                                            <p>new news</p>
+                                        </div>
+                                         <div class="col-xs-6">
+                                        <span>new news</span>
+                                        </div>
+                                        
+                                        <hr>
+                                    </div>
+                                </div>
+                                <div class="img">
+                                    <img src="img/644.jpg"/>
+                                </div>
+                                <p>asdadad</p>
+                                <p>aadad</p>
+                                <button>detalis</button>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-xs-12">
+                            <div class="new">
+                                <div class="p-span-hr">
+                                    <div class="row">
+                                        <div class="col-xs-6">
+                                            <p>new news</p>
+                                        </div>
+                                         <div class="col-xs-6">
+                                        <span>new news</span>
+                                        </div>
+                                        
+                                        <hr>
+                                    </div>
+                                </div>
+                                <div class="img">
+                                    <img src="img/644.jpg"/>
+                                </div>
+                                <p>asdadad</p>
+                                <p>aadad</p>
+                                <button>detalis</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>     
+        <!--blog-->
+        
+        <!--fast-->
+        <div class="fast">
+            <div class="cont">
+                <h1> Join our Subscribers List to Get Regular Update </h1>
+                <p>Subscribe Now. We will send you Best offer for your Trip 
+                Subscribe Now. We will send you Best offer for your Trip 
+                Subscribe Now. We will send you Best offer for your Trip </p>
+                <div class="input">
+                    <input type="text" placeholder="e-mail">
+                    <button>subscripe</button>
+                </div>
+            </div>
+        </div>
+        <!--fast-->
+        
+        <!--experiment-->
+        <div class="experiment">
+            <div class="cont">
+                <h1>memories of our coustomers</h1>
+                <div class="funny">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="row">
+                                <div class="col-md-6 hidden-xs hidden sm">
+                            <div class="imag">
+                                <img class="img-responsive" src="img/1212121212.jpg">
+                            </div>
+                        </div>
+                                <div class="col-md-6 col-xs-12">
+                                    <div class="height">
+                                        <h1>at the airbort</h1>
+                                        <p> Lorem ipsum dolor sit amet, contur adip elit, sed do mod incid ut labore et dolore magna aliqua. Ut enim ad minim veniam  Lorem ipsum dolor sit amet, contur adip elit, sed do mod incid ut labore et dolore magna aliqua. Ut enim ad minim veniam  Lorem ipsum dolor sit amet, contur adip elit, sed do mod incid ut labore et dolore magna aliqua. Ut enim ad minim veniam  Lorem ipsum dolor sit amet, contur adip elit, sed do mod incid ut labore et dolore magna aliqua. Ut enim ad minim veniam </p>
+                                    </div>
+                                    <button>read more</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-12">
+                            <div class="row">
+                            <div class="col-md-6 hidden-xs hidden sm">
+                            <div class="imag">
+                                <img class="img-responsive" src="img/1212121212.jpg">
+                            </div>
+                        </div>
+                            <div class="col-md-6 col-xs-12">
+                                    <div class="height">
+                                        <h1>at the airbort</h1>
+                                        <p> Lorem ipsum dolor sit amet, contur adip elit, sed do mod incid ut labore et dolore magna aliqua. Ut enim ad minim veniam  Lorem ipsum dolor sit amet, contur adip elit, sed do mod incid ut labore et dolore magna aliqua. Ut enim ad minim veniam  Lorem ipsum dolor sit amet, contur adip elit, sed do mod incid ut labore et dolore magna aliqua. Ut enim ad minim veniam  Lorem ipsum dolor sit amet, contur adip elit, sed do mod incid ut labore et dolore magna aliqua. Ut enim ad minim veniam </p>
+                                    </div>
+                                    <button>read more</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-12">
+                            <div class="row">
+                            <div class="col-md-6 hidden-xs hidden sm">
+                            <div class="imag">
+                                <img class="img-responsive" src="img/1212121212.jpg">
+                            </div>
+                        </div>
+                           <div class="col-md-6 col-xs-12">
+                                    <div class="height">
+                                        <h1>at the airbort</h1>
+                                        <p> Lorem ipsum dolor sit amet, contur adip elit, sed do mod incid ut labore et dolore magna aliqua. Ut enim ad minim veniam  Lorem ipsum dolor sit amet, contur adip elit, sed do mod incid ut labore et dolore magna aliqua. Ut enim ad minim veniam  Lorem ipsum dolor sit amet, contur adip elit, sed do mod incid ut labore et dolore magna aliqua. Ut enim ad minim veniam  Lorem ipsum dolor sit amet, contur adip elit, sed do mod incid ut labore et dolore magna aliqua. Ut enim ad minim veniam </p>
+                                    </div>
+                                    <button>read more</button>
+                                </div>
+                        </div>
+                        </div>
+                        <div class="col-xs-12">
+                            <div class="row">
+                                <div class="col-md-6 hidden-xs hidden sm">
+                                    <div class="imag">
+                                        <img class="img-responsive" src="img/1212121212.jpg">
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-xs-12">
+                                    <div class="height">
+                                        <h1>at the airbort</h1>
+                                        <p> Lorem ipsum dolor sit amet, contur adip elit, sed do mod incid ut labore et dolore magna aliqua. Ut enim ad minim veniam  Lorem ipsum dolor sit amet, contur adip elit, sed do mod incid ut labore et dolore magna aliqua. Ut enim ad minim veniam  Lorem ipsum dolor sit amet, contur adip elit, sed do mod incid ut labore et dolore magna aliqua. Ut enim ad minim veniam  Lorem ipsum dolor sit amet, contur adip elit, sed do mod incid ut labore et dolore magna aliqua. Ut enim ad minim veniam </p>
+                                    </div>
+                                    <button>read more</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--experiment-->
+        
+        <!--fotter-->
+        <div class="fotter">
+            <div class="cont">
+                <div class="row">
+                    <div class="col-md-3 col-xs-6">
+                        <h4>story</h4>
+                        <p>best travel agency best travel agency  best travel agency  best travel agency best travel agency best travel agency best travel agency best travel agency best travel agency best travel agency best travel agency best travel agency best travel agency best travel agency best travel agency best travel agency best travel agency best travel agency best travel agency best travel agency best travel agency best travel agency best travel agency best travel agency best travel agency best travel agency best travel agency best travel agency best travel agency </p>
+                    </div>
+                    <div class="col-md-3 col-xs-6">
+                        <h4> links </h4>
+                        <ul>
+                            <li><i class="fas fa-house-damage"></i>home</li>
+                            <li><i class="fas fa-map-marked-alt"></i>Destination</li>
+                            <li><i class="fas fa-people-carry"></i>Packages </li>
+                            <li><i class="fas fa-tags"></i>Special Offers</li>
+                            <li><i class="fab fa-blogger"></i>blog</li>
+                            <li><i class="fas fa-paper-plane"></i>book now</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-3 col-xs-6">
+                        <h4> best trips</h4>
+                        <ul>
+                            <li>china</li>
+                            <li>england</li>
+                            <li>amierca</li>
+                            <li>egypt</li>
+                            <li>tialand</li>
+                            <li>brazil</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-3 col-xs-6">
+                        <div class="row">
+                            <div class-col-xs-12>
+                                <div class="row">
+                                    <div class="col-xs-6">
+                                        <i></i>
+                                    </div>
+                                    <div class="col-xs-6">
+                                        +1 (300) 1234 6543
+                                    </div>
+                                </div>
+                            </div>
+                             <div class-col-xs-12>
+                                <div class="row">
+                                    <div class="col-xs-6">
+                                        <i></i>
+                                    </div>
+                                    <div class="col-xs-6">
+                                        info@tnest.com
+                                    </div>
+                                </div>
+                            </div>
+                             <div class-col-xs-12>
+                                <div class="row">
+                                    <div class="col-xs-6">
+                                        <i></i>
+                                    </div>
+                                    <div class="col-xs-6">
+                                        North Warnner Park 336/A <br>
+                                        Newyork, USA
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-xs-12">
+                        <hr>
+                    </div>
+                    <div class="col-xs-Offset-4">
+                        <div class="icons">
+                            <i></i>
+                        </div>
+                        <div class="icons">
+                            <i></i>
+                        </div>
+                        <div class="icons">
+                            <i></i>
+                        </div>
+                        <div class="icons">
+                            <i></i>
+                        </div>
+                    </div>
+                </div>
+                <p>© 2017 ThemeSINE. All Right Reserved <br>designed with html css javacript bootstrap</p>
+            </div>
+        </div>
+        <!--fotter-->
+        
